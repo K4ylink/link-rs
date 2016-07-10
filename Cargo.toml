@@ -2,6 +2,9 @@
 name = "link"
 version = "0.1.0"
 authors = ["CrLF0710 <crlf0710@gmail.com>"]
+description = "A safe anti-ownership relation between Rust objects"
+license = "MIT"
+repository = "https://github.com/crlf0710/link-rs"
 
 [dependencies]
 field-offset = "0.1"
