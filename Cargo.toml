@@ -1,6 +1,6 @@
 [package]
 name = "link"
-version = "0.1.0"
+version = "0.1.1-pre"
 authors = ["CrLF0710 <crlf0710@gmail.com>"]
 description = "A safe anti-ownership relation between Rust objects"
 license = "MIT"
