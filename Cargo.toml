@@ -1,10 +1,9 @@
 [package]
 name = "link"
-version = "0.1.1-pre"
+version = "0.1.1"
 authors = ["CrLF0710 <crlf0710@gmail.com>"]
-description = "A safe anti-ownership relation between Rust objects"
+description = "Now deprecated."
 license = "MIT"
 repository = "https://github.com/crlf0710/link-rs"
 
 [dependencies]
-field-offset = "0.1"
